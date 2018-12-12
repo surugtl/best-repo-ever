@@ -2,4 +2,6 @@
 
 Updated the file in local repository.
 
-Line 5 change for branch 1
+
+Second update to same line
+
